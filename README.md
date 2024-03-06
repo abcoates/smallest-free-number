@@ -10,8 +10,8 @@ In this minimal version, you are given a set (i.e. an **unordered** set) of non-
 
 ## Examples
  * \[0, 1, 2, 3, 5\] => 4
- * \[0, 1, 2\] => 3
- * \[10, 20, 30\] => 0
+ * \[2, 1, 0\] => 3
+ * \[20, 10, 30\] => 0
 
 ## Special Note
 You **may** use AI to help you write the code.  As AI coding companions are inevitable, we might as well all start practicising how to use them.  **However**, if you have used AI to help you write your code, please make that clear in your solution.
