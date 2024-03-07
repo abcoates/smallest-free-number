@@ -10,6 +10,7 @@ In this minimal version, you are given a set (i.e. an **unordered** set) of non-
 
 ## Examples
  * \[0, 1, 2, 3, 5\] => 4
+ * \[0, 1, 3, 4, 5\] => 2
  * \[2, 1, 0\] => 3
  * \[20, 10, 30\] => 0
 
