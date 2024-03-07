@@ -6,7 +6,7 @@ Thanks to [Nicolas Rinaudo](https://github.com/abcoates/smallest-free-number.git
 ## Description
 This is a simplification a general problem, find the 'least XXX' object that is not already used, where 'XXX' is some arbitrary measurement dimension such as 'large', 'expensive', etc.
 
-In this minimal version, you are given a set (i.e. an **unordered** set) of non-negative integers, and you have to find the smallest integer that is **not** a part of the set.
+In this minimal version, you are given a set (i.e. an **unordered** set) of non-negative integers, and you have to find the smallest non-negative integer that is **not** a part of the set.
 
 ## Examples
  * \[0, 1, 2, 3, 5\] => 4
